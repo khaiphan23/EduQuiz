@@ -1,0 +1,5 @@
+{
+  "name": "EduQuiz",
+  "description": "Nền tảng trắc nghiệm hỗ trợ AI dành cho giáo viên và học sinh. Tạo bài kiểm tra ngay lập tức với Gemini, chia sẻ và nhận phản hồi thông minh.",
+  "requestFramePermissions": []
+}
